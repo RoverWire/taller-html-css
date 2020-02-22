@@ -23,7 +23,7 @@
 
 header {
     height: 80px;
-    background-color: #117daa;
+    background-color: #00B6AA;
 }
 
 body {
@@ -117,18 +117,18 @@ a:hover, .active>a {
 }
 
 #nosotros h3 {
-    border: 2px solid #9ac31c;
+    border: 2px solid #00B6AA;
 }
 
 #servicios {
     min-height: 515px;
-    background-color: #15a9df;
+    background-color: #00B6AA;
     color: #ffffff;
     padding-top: 30px;
 }
 
 #servicios > .container {
-    background-color: #15a9df;
+    background-color: #00B6AA;
 }
 
 #servicios .articulo {
@@ -166,7 +166,7 @@ a:hover, .active>a {
 }
 
 .pregunta .mdi-brightness-1 {
-    color: #15a9df;
+    color: #00B6AA;
     margin-right: 15px;
 }
 
@@ -178,12 +178,12 @@ a:hover, .active>a {
 
 .pregunta button {
     background-color: #ffff; 
-    color: #15a9df;
+    color: #00B6AA;
     font-size: 20px;
 }
 
 .pregunta button:hover {
-    background-color: #15a9df;
+    background-color: #00B6AA;
     color: #ffffff;
 }
 
@@ -212,7 +212,7 @@ a:hover, .active>a {
 }
 
 .pregunta-abierta {
-    background-color: #117daa;
+    background-color: #00B6AA;
     color: #ffffff;
 }
 
@@ -221,10 +221,11 @@ a:hover, .active>a {
 }
 
 #contacto {
-    background-color: #9ac31c;
+    background-color: #48484A;
 }
 
 #contacto .contenedor-titulo {
+    margin-bottom: 30px;
     padding-top: 30px;
 }
 
@@ -283,7 +284,7 @@ footer {
 }
 
 footer span {
-    color: #9ac31c;
+    color: #00B6AA;
 }
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
